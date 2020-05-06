@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img height="200" src="./screenshot.png" alt="Project screenshot"></a>
+ <img height="350" src="./screenshot.png" alt="Project screenshot"></a>
 </p>
 
 <h3 align="center">weather-app</h3>
